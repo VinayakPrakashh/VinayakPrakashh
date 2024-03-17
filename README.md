@@ -1,8 +1,5 @@
 ### Hey there 👋
-### Looking for HTML,JAVASCRIPT,PHP programs?
-### [Click Here!!!](https://github.com/VinayakPrakashh/web-programming)
- 
-### turtorial for the creation of html,php programs have been added there check it.
+
 
 <!--
 **VinayakPrakashh/VinayakPrakashh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
