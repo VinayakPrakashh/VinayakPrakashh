@@ -19,15 +19,3 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
-
----
-
-
-
-### Now Playing 🎧
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
-[![spotify-github-profile](/img/default.svg)](https://open.spotify.com/track/7e3JpmZNlzh8reXergT8LC?si=41e41415464c4925)
-<br/>
----
-
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
