@@ -26,7 +26,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/7e3JpmZNlzh8reXergT8LC?si=41e41415464c4925)
+[![Spotify](No Regrets)](https://open.spotify.com/track/7e3JpmZNlzh8reXergT8LC?si=41e41415464c4925)
 <br/>
 ---
 
