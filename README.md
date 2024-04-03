@@ -25,7 +25,7 @@
 
 
 ### Now Playing 🎧
-
+![spotify-github-profile](/img/default.svg)
 [![spotify-github-profile](/img/default.svg)](https://open.spotify.com/track/7e3JpmZNlzh8reXergT8LC?si=41e41415464c4925)
 <br/>
 ---
