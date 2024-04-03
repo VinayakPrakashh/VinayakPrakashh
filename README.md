@@ -11,7 +11,7 @@
 <br/>
 
 ### Languages and Tools:
-<a href="file-type-verilog-icon-256x256-goe8p7qm](https://github.com/VinayakPrakashh/VinayakPrakashh/assets/101159818/0471dc69-d71b-46dd-9637-d7e92d7d9480"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="file-type-verilog-icon-256x256-goe8p7qm](https://github.com/VinayakPrakashh/VinayakPrakashh/assets/101159818/0471dc69-d71b-46dd-9637-d7e92d7d9480"> <img align="left" alt="Python" width="26px" src="file-type-verilog-icon-256x256-goe8p7qm](https://github.com/VinayakPrakashh/VinayakPrakashh/assets/101159818/6187d116-0158-423b-8d38-4de4523706ab"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
