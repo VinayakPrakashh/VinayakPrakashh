@@ -17,16 +17,16 @@
   <a href="https://linkedin.com/in/vinayak-prakash-22383124a" target="_blank">
     <img alt="Vinayak | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
   </a>
-  <br />
+
   <a href="https://www.instagram.com/vinayak_prakash_yt?utm_source=qr&igsh=azhiemVjNHpsbGlj" target="_blank">
     <img alt="Vinayak | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
   </a>
-  <br />
+
   <a href="https://x.com/vinayakprakash0?t=T7AjUhbmWno3c8OUuDYS0w&s=08" target="_blank">
     <img alt="Vinayak | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
   </a>
 </p>
-<br />
+
 <p align="center">📫 How to reach me: <strong>vinayakprakash2121@gmail.com</strong></p>
 
 <h3 align="center">Languages and Tools:</h3>
