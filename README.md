@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakprakashh&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakprakashh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayakprakashh" alt="vinayakprakashh" /></a> </p>
-(Use dark theme to find my socials ;)
+(Use dark theme to find my socials :D
 <br />
 <a href="https://linkedin.com/in/vinayak-prakash-22383124a" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/vinayak_prakash_yt?utm_source=qr&igsh=azhiemVjNHpsbGlj" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
