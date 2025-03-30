@@ -13,6 +13,7 @@
 
 <p align="center">
   (Use dark theme to find my socials :D) <br />
+  <br />
   <a href="https://linkedin.com/in/vinayak-prakash-22383124a" target="_blank">
     <img alt="Vinayak | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
   </a>
@@ -65,11 +66,3 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=VinayakPrakashh&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=VinayakPrakashh&icon=0&color=0" alt="Profile Visit Count" />
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
