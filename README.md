@@ -26,6 +26,8 @@
 <a href="https://linkedin.com/in/vinayak-prakash-22383124a" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/vinayak_prakash_yt?utm_source=qr&igsh=azhiemVjNHpsbGlj" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://x.com/vinayakprakash0?t=T7AjUhbmWno3c8OUuDYS0w&s=08" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<br />
+<br />
 - 📫 How to reach me **vinayakprakash2121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
