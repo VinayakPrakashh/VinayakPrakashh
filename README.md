@@ -19,7 +19,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
-<h1 align="center">Hi 👋, I'm Vinayak</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/VinayakPrakashh" >Vinayak</a></h1>
 <h3 align="center">A Digital Design Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakprakashh&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakprakashh" /> </p>
