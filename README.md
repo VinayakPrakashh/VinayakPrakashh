@@ -32,6 +32,7 @@
 <p align="center">📫 How to reach me: <strong>vinayakprakash2121@gmail.com</strong></p>
 
 <h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
