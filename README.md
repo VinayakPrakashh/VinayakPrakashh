@@ -1,4 +1,4 @@
-![file-type-verilog](https://github.com/user-attachments/assets/a380f1d4-0ace-472d-a41f-d0d181bc98ee)<h1 align="center">Hi 👋, I'm <a href="https://github.com/VinayakPrakashh">Vinayak</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/VinayakPrakashh">Vinayak</a></h1>
 <h3 align="center">A Digital Design Enthusiast from India</h3>
 
 <p align="center"> 
