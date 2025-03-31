@@ -14,6 +14,7 @@
 <p align="center">
   (Use dark theme to find my socials :D) <br />
   <br />
+  <p align="center"> 
   <a href="https://linkedin.com/in/vinayak-prakash-22383124a" target="_blank">
     <img alt="Vinayak | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
   </a>
