@@ -1,6 +1,4 @@
-![motherboard-circuit-background](https://github.com/user-attachments/assets/28267d95-5b06-4efd-9425-f59fa40a4572)
-
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/VinayakPrakashh">Vinayak</a></h1>
+![motherboard-circuit-background](https://github.com/user-attachments/assets/4ad3e5a4-153f-47f5-868f-bced8398a75e)
 <h3 align="center">A Digital Design Enthusiast from India</h3>
 
 <p align="center"> 
