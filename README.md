@@ -1,5 +1,5 @@
+<h1 align="center">Hi i'm Vinayak</h1>
 
-![Untitled-3](https://github.com/user-attachments/assets/1d5c12fd-5014-4186-9adc-82543d910f4f)
 
 
 <h3 align="center">A Digital Design Enthusiast from India</h3>
