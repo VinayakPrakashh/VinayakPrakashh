@@ -1,4 +1,5 @@
-![Untitled-2](https://github.com/user-attachments/assets/268e88b6-2b3c-428c-9d9e-787f10ab5d04)
+![Untitled-3](https://github.com/user-attachments/assets/4e10ee25-2b20-4408-ba6f-9adac91f6924)
+
 
 <h3 align="center">A Digital Design Enthusiast from India</h3>
 
